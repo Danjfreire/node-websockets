@@ -1,0 +1,23 @@
+{
+  "name": "websockets-demo",
+  "version": "1.0.0",
+  "description": "this is a sample websockets implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danjfreire/node-websockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danjfreire/node-websockets/issues"
+  },
+  "homepage": "https://github.com/Danjfreire/node-websockets#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
